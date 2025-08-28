@@ -1,0 +1,27 @@
+# Helm
+*.tgz
+charts/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
+
+# Temporary files
+*.tmp
+.tmp/
+
+# Chart dependencies
+requirements.lock
